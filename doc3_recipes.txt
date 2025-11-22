@@ -1,0 +1,10 @@
+Simple Recipe Knowledge Base (Sample Doc)
+
+Pasta:
+To cook pasta, boil water with salt, add pasta, and cook for 8–10 minutes.
+You can add tomato sauce, herbs, and cheese for flavor.
+
+Tea:
+To make tea, boil water, add tea leaves or a tea bag, let it steep, then add sugar and milk if desired.
+
+These examples are included just to show that the RAG system can handle general knowledge.
